@@ -1,5 +1,8 @@
 # AtliQ-Mart-Supply-Chain-Data-Analysis
 
+## Created by - Muzamil Channa @ Data Analyst [Linkedin Profile](https://www.linkedin.com/in/muzamil-channa-a2216a175/)
+
+#
 
 ## Problem statement
 AtliQ Mart, an FMCG manufacturer based in Gujarat, India, operates in Surat, Ahmedabad, and Vadodara. The company plans to expand into other metro and tier-1 cities within the next two years.
@@ -9,19 +12,19 @@ Recently, AtliQ Mart has encountered issues with some key customers not renewing
 The Supply Chain team has decided to implement a standard approach for measuring service levels. They will track the 'On-Time Delivery (OT) %', 'In-Full Delivery (IF) %', and 'On-Time In-Full (OTIF) %' of customer orders daily, comparing these metrics against the target service levels set for each customer.
 
 ## Data Model
-![image](https://github.com/Rejithadas/Supply_Chain_Data_Analysis/assets/101463488/4c4cd380-ea65-4667-ba0a-6331ee37019a) 
-
+![image](https://github.com/malcolmchanna/Supply-Chain-Analysis-Dashboard/blob/main/assets/Data%20Model.png)
 ## Key Findings
 #### Overview
-![ky1](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/b2d52a59-3bbd-448c-9def-1037cec1dff7)
-
+![image](https://github.com/malcolmchanna/Supply-Chain-Analysis-Dashboard/blob/main/assets/Overview.png)
 #### Customer Delivery Analysis
-![ky2](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/065e71af-3dc0-40c0-8e95-d4ca9087cdf8)
-![ky3](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/172d0403-2fe9-4b2f-ba94-fb07b003f772)
-
+![image](https://github.com/malcolmchanna/Supply-Chain-Analysis-Dashboard/blob/main/assets/Customer%20Delivery%20Analysis.png)
+![image](https://github.com/malcolmchanna/Supply-Chain-Analysis-Dashboard/blob/main/assets/customer%202.png)
 #### Order Line Analysis  
-![ky4](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/81c2da58-6d20-4850-8e5e-069553d4f2da)
+![image](https://github.com/malcolmchanna/Supply-Chain-Analysis-Dashboard/blob/main/assets/Order%20Line%20Analysis.png)
 
-#### Delivery Analysis
-![ky5](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/efc80ed8-1b64-4008-ae30-6e271c210abd)
-![ky6](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/0253090b-c266-4cba-9e17-b55548f5354a)
+#
+#### Don't forget to give a star to this project because it motivates me, and please follow me on [LinkedIn](https://www.linkedin.com/in/muzamil-channa-a2216a175/). Also, please consider me for any internship or entry-level data analyst role. I need a job or internship even though it's free or paid. Thanks in Advance.
+
+- Created & Presented by – Muzamil Channa @ Aspiring Data Analyst
+- Date: 26/04/2024
+- Place: Pakistan, Karachi
